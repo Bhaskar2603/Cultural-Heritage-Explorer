@@ -8,7 +8,7 @@ This is my nationwide hackathon-winning project at **HACKQUEST**, called **Cultu
 
 - 🖼️ Image classification of **24 famous Indian monuments** using a customized CNN model.
 - 💬 Integration with **OpenAI API** to provide historical and cultural information through a chatbot.
-- 🧠 Built using **Flask**, **Gradio**, and hosted on **Hugging Face Spaces**.
+- 🧠 Built using **Flask**, **Gradio**, and chatbot is hosted on **Hugging Face Spaces**.
 - 📊 Dataset is custom-built using images collected from the web.
 
 ---
@@ -68,7 +68,7 @@ A customized **Convolutional Neural Network (CNN)** model was trained to classif
 
 ## 🚀 Deployment
 
-The app is deployed on Hugging Face Spaces using **Gradio + Flask**.
+The chatbot is deployed on Hugging Face Spaces using **Gradio** and whole website will run using **Flask**.
 
 ---
 
